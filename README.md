@@ -42,6 +42,10 @@ PORT     STATE SERVICE
 |     Best_Match: 
 |_      CX9020 with a score of 80.00%
 MAC Address: 00:01:05:0F:65:BC (Beckhoff Automation GmbH)
+
+## Disclaimer:
+
+This tool is designed for information technology security purposes only. It should be used exclusively on networks and systems where explicit authorization has been obtained. Unauthorized scanning of networks and systems is illegal and unethical. Users must ensure they have written permission from the rightful owners of the systems to be scanned. We are not responsible for any misuse of this tool, nor for any consequences that result from such misuse. It is the user's responsibility to adhere to all applicable laws and regulations related to network scanning and data security. Use this tool at your own risk.
 ## Tested on
 CX-5020
 CX-9020
